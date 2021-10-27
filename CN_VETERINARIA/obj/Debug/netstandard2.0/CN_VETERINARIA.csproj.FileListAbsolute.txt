@@ -1,0 +1,12 @@
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\bin\Debug\netstandard2.0\CN_VETERINARIA.deps.json
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\bin\Debug\netstandard2.0\CN_VETERINARIA.dll
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\bin\Debug\netstandard2.0\CN_VETERINARIA.pdb
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\bin\Debug\netstandard2.0\CD_VETERINARIA.dll
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\bin\Debug\netstandard2.0\CD_VETERINARIA.pdb
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\obj\Debug\netstandard2.0\CN_VETERINARIA.AssemblyInfoInputs.cache
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\obj\Debug\netstandard2.0\CN_VETERINARIA.AssemblyInfo.cs
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\obj\Debug\netstandard2.0\CN_VETERINARIA.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\obj\Debug\netstandard2.0\CN_VETERINARIA.csproj.CopyComplete
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\obj\Debug\netstandard2.0\CN_VETERINARIA.dll
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\obj\Debug\netstandard2.0\CN_VETERINARIA.pdb
+C:\Users\ernes\source\repos\Veterinaria\CN_VETERINARIA\obj\Debug\netstandard2.0\CN_VETERINARIA.csproj.AssemblyReference.cache
